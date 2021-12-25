@@ -1,0 +1,285 @@
+﻿Item ID,Item Name,Item Number
+-1,reg_time,2020-05-08 22:17:16
+item-10,Dummy Core,194
+item-31,Basic Training Data,3474
+item-32,Intermediate Training Data,883
+item-33,Advanced Training Data,321
+-1,kalina_level,23
+-1,kalina_favor,27163
+item-1,T-Doll Contract,1052
+item-2,Equipment Contract,163
+item-3,Quick Production Contract,175
+item-4,Quick Repair Contract,3203
+item-5,Daily Pause Permit,1
+item-7,Oath Certificate,0
+item-8,Quick Training Contract,54
+item-9,Enhancement Capsule,1711
+item-11,Key Card,0
+item-12,Points,140
+item-14,Original Sample,164
+item-15,Pure Sample,20
+item-16,Quick Analysis Contract,148
+item-17,Data Patch,35
+item-41,Token,338
+item-42,Exchange Ticket,0
+item-43,Black Card,1
+item-44,Calibration Ticket,1020
+item-45,Memory Fragment,1637
+item-46,Special Combat Report,4915
+item-47,Theater Material,0
+item-50,Universal Parts,5543
+item-51,New Type Fire-Control Component,18
+item-100,Elite Griffin Combat Medal,2
+item-101,Combat Ranking Medal,47
+item-103,Challenger Medal,10
+item-104,Elite Adventurer Medal,2
+item-301,Central Data: BGM-71,0
+item-302,Central Data: AGS-30,0
+item-303,Central Data: 2B14,0
+item-304,Central Data: M2,0
+item-305,Central Data: AT4,0
+item-306,Core Data: QLZ-04,0
+item-506,Battery,772
+item-507,Surplus EXP,240000
+item-508,Friendship Points,8910
+item-509,Fairy Command,190
+item-513,Dark Star Kernel,100
+item-514,Petri Dish,792
+item-515,Basic Training Keycode,604
+item-516,Advanced Training Keycode,632
+item-519,HOC General Data,24
+item-520,Frag Grenade,22
+item-521,Stun Grenade,14
+item-522,Turret,6
+item-525,Quick Auto-Battle Contract,12
+item-601,Infinite Surprise Dye,20
+item-602,Colorful Specified Dye,1
+item-603,Potential Energy,1
+item-604,Electronic Impulse,4
+item-605,Aid Commission,3
+item-1001,AAT-52 Icon,1
+item-1002,G43 Icon,1
+item-1003,IDW Icon,1
+item-1004,L85A1 Icon,1
+item-1006,PPSh-41 Icon,1
+item-1008,AK-47 Icon,1
+item-1009,G17 Icon,1
+item-1010,Makarov Icon,1
+item-1011,Skorpion Icon,1
+item-1012,Serdyukov Icon,1
+item-1016,PTRD Icon,1
+item-1018,Gr G11 Icon,1
+item-1019,OTs-14 Icon,1
+item-1032,FMG-9 Icon,1
+item-1033,KS-23 Icon,1
+item-1037,Micro Uzi Icon,1
+item-1040,RMB-93 Icon,1
+item-1044,SAA Icon,1
+item-1046,SVD Icon,1
+item-1049,M99 Icon,1
+item-1050,RO635 Icon,1
+item-1058,FF FNP9 Icon,1
+item-1059,Gr G3 Icon,1
+item-1060,LWMMG Icon,1
+item-1061,M3 Icon,1
+item-1062,M1895 Icon,1
+item-1063,Spectre M4 Icon,1
+item-1064,SVT-38 Icon,1
+item-1065,M1 Garand Icon,1
+item-1067,M21 Icon,1
+item-1068,StG44 Icon,1
+item-1070,AS Val Icon,1
+item-1072,Gr Mk23 Icon,1
+item-1074,Stechkin Icon,1
+item-1075,Kar98k Icon,1
+item-1085,Background: Graffiti Art,1
+item-1228,Icon: Official 4-Koma vol.1,1
+item-1229,Icon: Official 4-Koma vol.2,1
+item-1230,Icon: Official 4-Koma vol.3,1
+item-1248,Icon: Official 4-Koma vol.4,1
+item-1262,M1911 Neural Upgrade Icon,1
+item-1264,M4A1 Neural Upgrade Icon,1
+item-1265,ST AR-15 Neural Upgrade Icon,1
+item-1268,M1895 Neural Upgrade Icon,1
+item-1269,Mosin-Nagant Neural Upgrade Icon,1
+item-1271,MP-446 Neural Upgrade Icon,1
+item-1287,Icon: Official 4-koma - VOL. 5,1
+item-1344,M4 SOPMOD II Neural Upgrade Icon,1
+item-1345,UMP45 Neural Upgrade Icon,1
+item-1367,M14 Neural Upgrade Icon,1
+item-1388,Background: Winter is Coming,1
+item-1405,ID Card: Sangvis Presence,1
+item-1406,Icon: Fatal Freedom,1
+item-1445,Micro Uzi Neural Upgrade Icon,1
+item-1446,AS Val Neural Upgrade Icon,1
+item-1491,Icon: Lost Queen-of-the-Night,1
+item-1492,ID: Train Station of the Beginning,1
+item-1494,416 Neural Upgrade Icon,1
+item-1495,Type88 Neural Upgrade Icon,1
+item-1502,Background: Phantasmal Sea of Flowers,1
+item-1540,Icon: "Merry X'mas WOOF!",1
+item-1541,Icon: "I want hugs!",1
+item-1542,ID Card: An Embrace through Time and Space,1
+item-1553,NTW-20 Neural Upgrade Icon,1
+item-1566,Icon: Split-Second,1
+item-1567,ID: Impending Boom,1
+item-1611,Icon: Tsavorite Girl,1
+item-1612,Icon: The Eye of Storytelling,1
+item-1613,ID: The Edge of Time,1
+item-1614,Background: Twilight City,1
+item-1619,KSVK Neural Upgrade Icon,1
+item-1626,Icon: 2nd Anniversary Icon,1
+item-1669,ID Card: BBQ by the Azure Sea,1
+item-1670,Icon: Tropical Mojito,1
+item-1671,Icon: Sunset of Day 51,1
+item-1673,Icon: Soothing Vanilla,1
+item-1674,Icon: Girls' Sorcerer,1
+item-1675,Icon: Dessert Taster,1
+item-1676,Icon: Sleeping Pumpkin Princess,1
+item-1677,Icon: Honey Sunlight,1
+item-1678,ID: Seed of All Wishes,1
+item-1679,ID: Fruit of Doubt,1
+item-1694,Background: Lakefront Sunset,1
+item-1695,Background: Starry Night Courtyard,1
+item-1696,Background: Sunlit Courtyard,1
+item-1744,The Witch's Plan,1
+item-1758,Icon: Original Sin - Leviathan,1
+item-1759,Icon: Original Sin - Samael,1
+item-1760,Icon: "The Commander is at Griffin",1
+item-1761,Icon: Agent "Dima",1
+item-1762,ID: Last Gaming,1
+item-1763,ID: City of Tomorrow,1
+item-1764,ID: First Light,1
+item-1765,ID: Cold Shelter,1
+item-1766,Background: Safe House,1
+item-1774,ID: Work Checklist,1
+item-1776,ID: Girls by the Hearth,1
+item-1844,ID: Spring Carnival,1
+item-1860,ID: NA Server 3rd Anniversary Commemorative ID,1
+item-4001,City's Gift,1716
+item-4002,Snowfield's Gift,2882
+item-4003,Forest's Gift,47
+item-4004,Wasteland's Gift,11
+item-6001,Ordinary Meat Bun,21
+item-6002,Bundle of Meat Buns,24
+item-6003,Trove of Meat Buns,58
+item-6004,Commonfolk Standard,0
+item-6005,Comfort Bucket for One,7
+item-6006,Full Meal for Two,14
+item-6007,Strawberry Cheesecake Slice,0
+item-6008,One Week's Cake Selection,5
+item-6009,Sweet Explosives,6
+item-6010,"Baby  B-A-B-Y.",21
+item-6011,Streetside Oden,18
+item-6012,Wild Honeycomb,26
+item-6013,Icy Theater,19
+item-8001,Intel Points,2695
+item-8003,Intel Points,0
+item-9003,Supply Box,0
+item-9004,Supply Box,0
+item-9006,item-10009006,1
+item-9007,item-10009007,1
+item-10603,Extra Potential Energy,15
+item-10604,Extra Impulse,7
+item-100020,True Core Mask·3rd Anniversary,0
+item-100021,Crate,0
+item-100025,True Core Mask - Shattered Connexion,0
+item-100030,Nova Medal,141
+item-100031,Platinum Medal,6
+item-100032,item-10100032,0
+item-100047,Nova Medal,2
+item-100048,Platinum Medal,2
+item-100049,Azure Conch,80
+item-100050,Nova Medal – Il Teatrino,1
+item-100051,Platinum Medal – Il Teatrino,0
+item-100052,Augustus,10
+item-100062,Jade Coffer,0
+item-100063,Strange Soap,1
+item-100064,Nova Medal,3
+item-100065,Platinum Medal,1
+item-100069,Commander Headwear: Monster Overlord,1
+item-100070,Phoenix Token,0
+item-100071,Nova Medal - Bounty Feast,3
+item-100072,Platinum Medal - Bounty Feast,0
+item-100073,Star Ornament,0
+item-100074,Nova Medal·A Snowy Night Capriccio,1
+item-100075,Platinum Medal·A Snowy Night Capriccio,2
+item-100081,Nova Medal - The Photo Studio Mystery,0
+item-100082,Platinum Medal - The Photo Studio Mystery,3
+item-100083,Tangerine Coin,0
+item-100117,Star Ornament,0
+item-100118,Nova Medal·A Snowy Night Capriccio,3
+item-100119,Platinum Medal·A Snowy Night Capriccio,11
+item-110010,Event Points,2480
+item-110011,Event Points,2600
+item-110012,Event Points,2500
+item-110013,Event Points,2400
+item-110014,Event Points,2570
+item-110015,Event Points,2450
+item-110016,Event Points,2470
+item-110017,Event Points,2240
+item-900030,Nova Medal,3
+item-900032,Nova Medal,2
+item-900033,Platinum Medal,3
+item-900034,Nova Medal·Shattered Connexion,3
+item-900035,Platinum Medal·Shattered Connexion,3
+item-900039,Xmas Supply Box,0
+item-1100005,Bon appétit !,1
+item-1100006,Bon appétit !,1
+item-106,Chess Champion Medal,3
+gift-100001,Lollipop,75
+gift-100002,Ice Cream Cone,41
+gift-100003,Strawberry Custard Cheesecake,370
+gift-100006,Magic of Happiness,25
+gift-100007,Whiskey,60
+gift-200001,Combat Report,10252
+gift-200004,Paper Target,25
+gift-200005,Kandel Formulation,60
+gift-400001,Rapid Growth Disk,696
+gift-2706,Astral Bond,1
+furniture-10104,Simple Workbench,4
+furniture-10203,Plain Cat Bed,3
+furniture-10304,Simple Doghouse,4
+furniture-10402,Simple Bird Stand,2
+furniture-10501,Simple Multifunction Temperature-Controlled Enclosure,1
+furniture-20110,Digital Era Desk,10
+furniture-20210,Advanced Drone Console,10
+furniture-20310,Advanced Automated Operating Station,10
+furniture-20510,Modern Large Server,10
+furniture-20410,Hard Disk Array Data Table,10
+furniture-20610,Advanced Automated Writer,10
+furniture-20700,Bookshelf of Memories,0
+furniture-30110,Fairy Palace,10
+furniture-30210,King Railway Hub Model,10
+furniture-30310,Advanced Warehouse Model,10
+furniture-30410,Twin Moon Weather System,10
+furniture-40023,Cafe Bar Coffee Machine,0
+furniture-40024,Gramophone,0
+furniture-40026,Notebook,0
+furniture-40027,Projector,0
+furniture-40028,Comic Stand,0
+furniture-40009,Luffberry chess,0
+furniture-50110,Data Detection Hub,10
+furniture-50210,Holographic Mission Center,10
+furniture-50306,Advanced Disk Drive Storage,6
+furniture-50408,Advanced Large-Scale Analyzer,8
+furniture-60110,Storeroom,10
+furniture-60201,Small Maintenance Machinery,1
+furniture-60310,Integrated Indoor Training Range,10
+furniture-60400,Elevator - To the camp,0
+furniture-70100,Elevator - To the garage,0
+furniture-70003,furniture_establish-10070003,0
+furniture-70004,furniture_establish-10070004,0
+furniture-70005,furniture_establish-10070005,0
+furniture-70006,furniture_establish-10070006,0
+furniture-70007,furniture_establish-10070007,0
+furniture-70008,furniture_establish-10070008,0
+furniture-70009,furniture_establish-10070009,0
+furniture-70010,furniture_establish-10070010,0
+furniture-80007,Real Time Relay Terminal,0
+furniture-80011,Black Market Shop,0
+furniture-80109,Automated Gate Console,9
+furniture-80302,Intermediate Loot Rack,2
+furniture-90109,Impulse Reactor,9
+furniture-90205,Tactical Chip Research Station,5
+furniture-90400,Symmetric Infusion Drive,0
